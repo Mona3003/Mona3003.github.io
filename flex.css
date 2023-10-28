@@ -38,7 +38,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 body {
     font-family: Georgia, serif;
-    background: #fde6d8;
+    background: white
 }
 
 .wrapper {
@@ -59,8 +59,8 @@ body {
     flex: 1 1 auto;
 }
 .hi{
-    background: #fde6d8;
-    padding: 50px 0px;
+    background: #eed6e4;
+    padding: 10px 0px;
 }
 .hi__row{
     display: flex;
@@ -133,7 +133,7 @@ margin: 0px 0px 15px 0px;
 
 
 .footer{
-    background-color: rgb(236, 209, 236);
+    background-color: #eed6d4;
 }
 .footer__row{
     display: flex;
