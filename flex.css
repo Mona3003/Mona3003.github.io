@@ -133,7 +133,7 @@ margin: 0px 0px 15px 0px;
 
 
 .footer{
-    background-color: #eed6d4;
+    background-color: #eed6e4;
 }
 .footer__row{
     display: flex;
@@ -253,7 +253,7 @@ margin: 0px 0px 15px 0px;
                         .vertical_btn {
                             display: block;
                             height: 40px;
-                            background-color: #def0ea;
+                            background-color: rgb(220, 180, 180);
                             margin: 0px 30px;
                             line-height: 40px;
                             text-align: center;
